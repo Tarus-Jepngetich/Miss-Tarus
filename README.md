@@ -8,7 +8,7 @@ Welcome to my little corner of the internet where **design meets code** and **cr
 ---
 
 ## 🌱 About Me:
-- 🎨 UI/UX Designer | 🧑‍💻 Web Developer in training | 🖌️ Digital & Traditional Artist
+- 🎨 UI/UX Designer | 🧑‍💻 Full Stach Web Developer in training - Goal is to be Front end Web Dev | 🖌️ Digital & Traditional Artist
 - 🏗️ Currently building full-stack web projects while learning backend development
 - ✏️ Passionate about creating user-centric designs and seamless digital experiences
 - 💬 Lifelong learner — juggling Udemy coding marathons, Coursera UI/UX projects, and art sessions 🎨
